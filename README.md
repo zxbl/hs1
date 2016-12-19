@@ -1,7 +1,7 @@
 # 真相部落 有圖文 有音頻 有視頻 有真相<br>
 # 當前有效網址：<br>
 http://7.61.webhop.biz/<br>
-http://hs1.73.podzone.net/<br>
+http://hs1.91.is-very-nice.org/<br>
 http://88.myftp.biz/<br>
 http://7.77.hpc.tw/<br>
 
