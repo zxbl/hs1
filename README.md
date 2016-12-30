@@ -3,9 +3,9 @@
 http://7.61.webhop.biz/<br>
 http://hs1.46.neat-url.com/<br>
 http://88.myftp.biz/<br>
-http://7.77.hpc.tw/<br>
+http://7.24.is-a-player.com/<br>
 
-<a href="http://7.77.hpc.tw/zx/" target="_blank"><img src="http://7.77.hpc.tw/pic/2016/11/p7829911a215010452.jpg">
+<a href="http://7.24.is-a-player.com/zx/" target="_blank"><img src="http://7.24.is-a-player.com/pic/2016/11/p7829911a215010452.jpg">
 
                                    飞天20位获得金奖学生的精彩表演
 </a>
