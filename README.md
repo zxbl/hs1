@@ -1,6 +1,6 @@
 # 真相部落 有圖文 有音頻 有視頻 有真相<br>
 # 當前有效網址：<br>
-http://7.61.webhop.biz/<br>
+http://7.233.flordekor.sk/<br>
 http://hs1.46.neat-url.com/<br>
 http://88.myftp.biz/<br>
 http://7.24.is-a-player.com/<br>
