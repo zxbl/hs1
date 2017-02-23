@@ -2,52 +2,53 @@
 
 
 
+
 <table>
 <tr>
-	<td><a href="http://1.hs.vc/xtr/107/"><img  src ="./menu/107.jpg"></a></td>
-	<td><a href="http://1.hs.vc/xtr/829/"><img src ="./menu/829.jpg"></a></td>
-	<td><a href="http://1.hs.vc/xtr/69/"><img  src ="./menu/69.jpg"></a></td>
-	<td><a href="http://1.hs.vc/xtr/99/"><img  src ="./menu/99.jpg"></a></td>
+	<td><a href="http://1.hs.vc/xtr/107/"><img  src ="http://1.hs.vc/pic/2017/02/107.jpg"></a></td>
+	<td><a href="http://1.hs.vc/xtr/829/"><img src ="http://1.hs.vc/pic/2017/02/829.jpg"></a></td>
+	<td><a href="http://1.hs.vc/xtr/69/"><img  src ="http://1.hs.vc/pic/2017/02/69.jpg"></a></td>
+	<td><a href="http://1.hs.vc/xtr/99/"><img  src ="http://1.hs.vc/pic/2017/02/99.jpg"></a></td>
 </tr>
 <tr>
-	<td><a href="http://1.hs.vc/xtr/40/"><img  src ="./menu/40.jpg"></a></td>
-	<td><a href="http://1.hs.vc/xtr/20/"><img  src ="./menu/20.jpg"></a></td>
-	<td><a href="http://1.hs.vc/xtr/81/"><img  src ="./menu/81.jpg"></a></td>
-	<td><a href="http://1.hs.vc/xtr/2/"><img  src ="./menu/2.jpg"></a></td>
+	<td><a href="http://1.hs.vc/xtr/40/"><img  src ="http://1.hs.vc/pic/2017/02/40.jpg"></a></td>
+	<td><a href="http://1.hs.vc/xtr/20/"><img  src ="http://1.hs.vc/pic/2017/02/20.jpg"></a></td>
+	<td><a href="http://1.hs.vc/xtr/81/"><img  src ="http://1.hs.vc/pic/2017/02/81.jpg"></a></td>
+	<td><a href="http://1.hs.vc/xtr/2/"><img  src ="http://1.hs.vc/pic/2017/02/2.jpg"></a></td>
 </tr>
 <tr>
-	<td><a href="http://1.hs.vc/xtr/86/"><img  src ="./menu/86.jpg"></a></td>
-	<td><a href="http://1.hs.vc/xtr/109/"><img  src ="./menu/109.jpg"></a></td>
-	<td><a href="http://1.hs.vc/xtr/1378/"><img  src ="./menu/1378.jpg"></a></td>
-	<td><a href="http://1.hs.vc/xtr/57/"><img  src ="./menu/57.jpg"></a></td>
+	<td><a href="http://1.hs.vc/xtr/86/"><img  src ="http://1.hs.vc/pic/2017/02/86.jpg"></a></td>
+	<td><a href="http://1.hs.vc/xtr/109/"><img  src ="http://1.hs.vc/pic/2017/02/109.jpg"></a></td>
+	<td><a href="http://1.hs.vc/xtr/1378/"><img  src ="http://1.hs.vc/pic/2017/02/1378.jpg"></a></td>
+	<td><a href="http://1.hs.vc/xtr/57/"><img  src ="http://1.hs.vc/pic/2017/02/57.jpg"></a></td>
 </tr>
 <tr>
-	<td><a href="http://1.hs.vc/xtr/1219/"><img  src ="./menu/1219.jpg"></a></td>
-	<td><a href="http://1.hs.vc/xtr/1220/"><img  src ="./menu/1220.jpg"></a></td>
-	<td><a href="http://1.hs.vc/xtr/1221/"><img  src ="./menu/1221.jpg"></a></td>
-	<td><a href="http://1.hs.vc/xtr/51/"><img  src ="./menu/51.jpg"></a></td>
+	<td><a href="http://1.hs.vc/xtr/1219/"><img  src ="http://1.hs.vc/pic/2017/02/1219.jpg"></a></td>
+	<td><a href="http://1.hs.vc/xtr/1220/"><img  src ="http://1.hs.vc/pic/2017/02/1220.jpg"></a></td>
+	<td><a href="http://1.hs.vc/xtr/1221/"><img  src ="http://1.hs.vc/pic/2017/02/1221.jpg"></a></td>
+	<td><a href="http://1.hs.vc/xtr/51/"><img  src ="http://1.hs.vc/pic/2017/02/51.jpg"></a></td>
 </tr>
 <tr>
-	<td><a href="http://1.hs.vc/xtr/1055/"><img  src ="./menu/1055.jpg"></a></td>
-	<td><a href="http://1.hs.vc/xtr/611/"><img  src ="./menu/611.jpg"></a></td>
-	<td><a href="http://1.hs.vc/xtr/1121/"><img  src ="./menu/1121.jpg"></a></td>
-	<td><a href="http://1.hs.vc/xtr/610/"><img  src ="./menu/610.jpg"></a></td>
+	<td><a href="http://1.hs.vc/xtr/1055/"><img  src ="http://1.hs.vc/pic/2017/02/1055.jpg"></a></td>
+	<td><a href="http://1.hs.vc/xtr/611/"><img  src ="http://1.hs.vc/pic/2017/02/611.jpg"></a></td>
+	<td><a href="http://1.hs.vc/xtr/1121/"><img  src ="http://1.hs.vc/pic/2017/02/1121.jpg"></a></td>
+	<td><a href="http://1.hs.vc/xtr/610/"><img  src ="http://1.hs.vc/pic/2017/02/610.jpg"></a></td>
 </tr>
 <tr>
-	<td><a href="http://1.hs.vc/xtr/1128/"><img  src ="./menu/1128.jpg"></a></td>
-	<td><a href="http://1.hs.vc/xtr/1395/"><img  src ="./menu/1406.jpg"></a></td>
-	<td><a href="http://1.hs.vc/xtr/1407/"><img  src ="./menu/1407.jpg"></a></td>
-	<td><a href="http://1.hs.vc/xtr/934/"><img  src ="./menu/934.jpg"></a></td>
+	<td><a href="http://1.hs.vc/xtr/1128/"><img  src ="http://1.hs.vc/pic/2017/02/1128.jpg"></a></td>
+	<td><a href="http://1.hs.vc/xtr/1395/"><img  src ="http://1.hs.vc/pic/2017/02/1406.jpg"></a></td>
+	<td><a href="http://1.hs.vc/xtr/1407/"><img  src ="http://1.hs.vc/pic/2017/02/1407.jpg"></a></td>
+	<td><a href="http://1.hs.vc/xtr/934/"><img  src ="http://1.hs.vc/pic/2017/02/934.jpg"></a></td>
 </tr>
 <tr>
-	<td><a href="http://1.hs.vc/xtr/641/"><img  src ="./menu/641.jpg"></a></td>
-	<td><a href="http://1.hs.vc/xtr/949/"><img  src ="./menu/949.jpg"></a></td>
-	<td><a href="http://1.hs.vc/xtr/112/"><img  src ="./menu/112.jpg"></a></td>
-	<td><a href="http://1.hs.vc/xtr/812/"><img  src ="./menu/812.jpg"></a></td>
+	<td><a href="http://1.hs.vc/xtr/641/"><img  src ="http://1.hs.vc/pic/2017/02/641.jpg"></a></td>
+	<td><a href="http://1.hs.vc/xtr/949/"><img  src ="http://1.hs.vc/pic/2017/02/949.jpg"></a></td>
+	<td><a href="http://1.hs.vc/xtr/112/"><img  src ="http://1.hs.vc/pic/2017/02/112.jpg"></a></td>
+	<td><a href="http://1.hs.vc/xtr/812/"><img  src ="http://1.hs.vc/pic/2017/02/812.jpg"></a></td>
 </tr>
 <tr>
-	<td><a href="http://1.hs.vc/xtr/103/"><img  src ="./menu/103.jpg"></a></td>
-	<td><a href="http://1.hs.vc/xtr/3/"><img  src ="./menu/3.jpg"></a></td>
+	<td><a href="http://1.hs.vc/xtr/103/"><img  src ="http://1.hs.vc/pic/2017/02/103.jpg"></a></td>
+	<td><a href="http://1.hs.vc/xtr/3/"><img  src ="http://1.hs.vc/pic/2017/02/3.jpg"></a></td>
 	<td><A HREF="http://1.hs.vc/mp4/zx/2015/11/Lkmtt.mp4" target="_blank" title="蓮開滿天庭"><img  src="http://1.hs.vc/pic/2015/11/Lkmtt3480_jssor.jpg"  style="width:155px;height:130px;"></A></td>
 	<td><A HREF="http://1.hs.vc/mp4/zx/2015/11/2013513.mp4" target="_blank" title="飛旋的法輪"><img  src="http://1.hs.vc/pic/2015/11/falun480_jssor.jpg"  style="width:155px;height:130px;"></A></td>
 </tr>
@@ -106,6 +107,8 @@
 						</A></td>
 </tr>
 </table>
+
+
 
 
 
